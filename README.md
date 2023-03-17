@@ -1,2 +1,3 @@
 # Non-Linear-Least-Sq
-Notebook detailing Non-Linear Least Squares Approximations
+A python notebook detailing Non-Linear Least Squares Approximations.
+More specifically, the notebook defines it's own fitting method and compares it's performance with methods from pre-existing libraries.
